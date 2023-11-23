@@ -229,4 +229,5 @@ while running:
 
 	pygame.display.flip()
 	print("cambio 1")
+	print("cambio 2")
 pygame.quit()
